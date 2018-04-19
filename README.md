@@ -1,2 +1,2 @@
-# visionneuse
-ceci est un tuto création gallerie photos
+# galerie
+ceci est un tuto création galerie photos avec jquery
